@@ -1,0 +1,6 @@
+telebot
+transformers
+torch
+torchvision
+numpy
+PIL
